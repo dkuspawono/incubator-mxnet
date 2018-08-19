@@ -10,8 +10,10 @@ coverage:
 
   status:
     project: yes
+    diff:yes
     patch: yes
     changes: no
+    
 
 parsers:
   gcov:
